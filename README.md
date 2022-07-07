@@ -72,4 +72,4 @@ Besteck, Teller
 
 Kochgeschirr: Pfannenwender, Messer, Schneidebrett
 Hammer für Häringe  
-Werkzeug allgemein
+Werkzeug allgemein, Klebeband etc.
