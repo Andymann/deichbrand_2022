@@ -27,7 +27,6 @@ Panzertape
 Zelt  
 Plane  
 Pavillons  
-Pfanne  
 Spitz pass' auf, Würfelbecher, etc ...
 
 ## Boris:
