@@ -1,4 +1,4 @@
-# Deichbrand_2022
+# Deichbrand 2022
 
 Allgemein:
 Abfahrt bei Boris gegen 8:15,  
@@ -57,7 +57,8 @@ Frühstück
 Kabeltrommel, Verlängerung, Mehrfachstecker  
 Musik  
 Lichterkette  
-Wasserkanister
+Wasserkanister  
+Ladekabel, Adapter
 
 ## Jede(r):
 
