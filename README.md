@@ -57,11 +57,11 @@ Musik
 Lichterkette  
 Wasserkanister
 
-## Jede(r)
+## Jede(r):
 
 Trockentücher  
 Alkohol  
 Glas  
 Essen
 
-## Offen
+## Offen:
