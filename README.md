@@ -11,6 +11,7 @@ Kühlschrank
 Hänger  
 Bierzeltgarnitur: 2 Tische, 2 Bänke  
 Stehtisch,  
+kleiner Tisch,  
 Grill, Kohle, Anzünder  
 Feuertonne? Holz?  
 Schockscheiben
