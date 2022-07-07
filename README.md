@@ -5,6 +5,8 @@ Abfahrt bei Boris gegen 8:15,
 Treffen bei Käthe und Mucki, dann gemeinsam zum Festival.  
 Basti fährt direkt
 
+Ziel: Hafenstrasse 23
+
 90€ pro Person für Schrebergarten an Boris
 
 ## Käthe & Mucki:
@@ -62,6 +64,9 @@ Wasserkanister
 Trockentücher  
 Alkohol  
 Glas  
-Essen
+Essen  
+Besteck, Teller
 
 ## Offen:
+
+Kochgeschirr: Pfannenwender, Messer, Schneidebrett
