@@ -71,3 +71,5 @@ Besteck, Teller
 ## Offen:
 
 Kochgeschirr: Pfannenwender, Messer, Schneidebrett
+Hammer für Häringe  
+Werkzeug allgemein
