@@ -1,7 +1,8 @@
-# deichbrand_2022
+# Deichbrand_2022
 
 Allgemein:
-Abfahrt bei Boris gegen 8:15, Treffen bei Käthe nd Mucki, dann gemeinsam zum Festival
+Abfahrt bei Boris gegen 8:15,  
+Treffen bei Käthe nd Mucki, dann gemeinsam zum Festival.  
 Basti fährt direkt
 
 ## Käthe & Mucki:
