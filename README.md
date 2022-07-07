@@ -38,7 +38,8 @@ Frühstück:
  -Grillsauce  
  -Spül-/Handseife  
  -Knabberkram  
- -Küchenpapier  
+ -Küchenpapier
+
 Kabeltrommel / Verlängerung / Mehrfachstecker  
 Lautsprecher  
 Zapfanlage  
