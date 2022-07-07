@@ -18,7 +18,9 @@ Stehtisch,
 Grill, Kohle, Anzünder  
 Feuertonne? Holz?  
 Schockscheiben  
-Kochplatte, Topf, Pfanne
+Kochplatte, Topf, Pfanne  
+Kochgeschirr: Pfannenwender, Messer, Schneidebrett  
+Panzertape
 
 ## Basti:
 
@@ -72,6 +74,5 @@ Amulett
 
 ## Offen:
 
-Kochgeschirr: Pfannenwender, Messer, Schneidebrett  
 Hammer für Häringe  
 Werkzeug allgemein, Klebeband, etc.
