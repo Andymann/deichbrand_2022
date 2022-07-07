@@ -48,7 +48,7 @@ Frühstück:
 Kabeltrommel / Verlängerung / Mehrfachstecker  
 Lautsprecher  
 Zapfanlage  
-Bier: 2\*30 Liter Krombacher
+Bier: 2\*30 Liter Krombacher  
 Campingtisch
 
 ## Andy:
