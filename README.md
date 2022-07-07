@@ -2,7 +2,7 @@
 
 Allgemein:
 Abfahrt bei Boris gegen 8:15,  
-Treffen bei Käthe nd Mucki, dann gemeinsam zum Festival.  
+Treffen bei Käthe und Mucki, dann gemeinsam zum Festival.  
 Basti fährt direkt
 
 90€ pro Person für Schrebergarten an Boris
@@ -13,7 +13,6 @@ Kühlschrank
 Hänger  
 Bierzeltgarnitur: 2 Tische, 2 Bänke  
 Stehtisch,  
-kleiner Tisch,  
 Grill, Kohle, Anzünder  
 Feuertonne? Holz?  
 Schockscheiben
@@ -46,7 +45,8 @@ Frühstück:
 Kabeltrommel / Verlängerung / Mehrfachstecker  
 Lautsprecher  
 Zapfanlage  
-Bier: 10Fass Krombacher
+Bier: 2\*30 Liter Krombacher
+Campingtisch
 
 ## Andy:
 
