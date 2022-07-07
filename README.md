@@ -24,19 +24,19 @@ Spitz pass' auf, Würfelbecher, etc ...
 ## Boris:
 
 Frühstück:  
- Salz, Pfeffer  
- Wurst  
- Gouda  
- Milch  
- Kakao  
- Toast  
- Bacon  
- Eier  
- Bratfett  
- Grillsauce  
- Spül-/Handseife  
- Knabberkram  
- Küchenpapier  
+ -Salz, Pfeffer  
+ -Wurst  
+ -Gouda  
+ -Milch  
+ -Kakao  
+ -Toast  
+ -Bacon  
+ -Eier  
+ -Bratfett  
+ -Grillsauce  
+ -Spül-/Handseife  
+ -Knabberkram  
+ -Küchenpapier  
 Kabeltrommel / Verlängerung / Mehrfachstecker  
 Lautsprecher  
 Zapfanlage  
