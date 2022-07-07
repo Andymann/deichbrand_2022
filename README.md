@@ -5,6 +5,8 @@ Abfahrt bei Boris gegen 8:15,
 Treffen bei Käthe nd Mucki, dann gemeinsam zum Festival.  
 Basti fährt direkt
 
+90€ pro Person für Schrebergarten an Boris
+
 ## Käthe & Mucki:
 
 Kühlschrank  
@@ -20,6 +22,7 @@ Schockscheiben
 
 Zelt  
 Plane  
+Pavillons  
 Pfanne  
 Spitz pass' auf, Würfelbecher, etc ...
 
@@ -61,5 +64,3 @@ Glas
 Essen
 
 ## Offen
-
-Pavillon(s) y
