@@ -15,7 +15,8 @@ Bierzeltgarnitur: 2 Tische, 2 Bänke
 Stehtisch,  
 Grill, Kohle, Anzünder  
 Feuertonne? Holz?  
-Schockscheiben
+Schockscheiben  
+Kochplatte, Topf, Pfanne
 
 ## Basti:
 
