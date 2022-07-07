@@ -59,6 +59,7 @@ Musik
 Lichterkette  
 Wasserkanister  
 Ladekabel, Adapter
+Spannfixe, Schnur
 
 ## Jede(r):
 
@@ -66,10 +67,11 @@ Trockentücher
 Alkohol  
 Glas  
 Essen  
-Besteck, Teller
+Besteck, Teller  
+Amulett
 
 ## Offen:
 
-Kochgeschirr: Pfannenwender, Messer, Schneidebrett
+Kochgeschirr: Pfannenwender, Messer, Schneidebrett  
 Hammer für Häringe  
-Werkzeug allgemein, Klebeband etc.
+Werkzeug allgemein, Klebeband, etc.
