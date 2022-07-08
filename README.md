@@ -26,6 +26,7 @@ Panzertape
 
 Zelt  
 Plane  
+Hammer für Häringe  
 Pavillons  
 Toaster  
 Spitz pass' auf, Würfelbecher, etc ...
@@ -75,5 +76,4 @@ Kühlbox, Akkus
 
 ## Offen:
 
-Hammer für Häringe  
 Werkzeug allgemein, Klebeband, etc.
