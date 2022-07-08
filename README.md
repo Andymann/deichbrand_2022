@@ -27,6 +27,7 @@ Panzertape
 Zelt  
 Plane  
 Pavillons  
+Toaster  
 Spitz pass' auf, Würfelbecher, etc ...
 
 ## Boris:
@@ -69,7 +70,8 @@ Alkohol
 Glas  
 Essen  
 Besteck, Teller  
-Amulett
+Amulett  
+Kühlbox, Akkus
 
 ## Offen:
 
