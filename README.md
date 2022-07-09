@@ -20,7 +20,8 @@ Feuertonne? Holz?
 Schockscheiben  
 Kochplatte, Topf, Pfanne  
 Kochgeschirr: Pfannenwender, Messer, Schneidebrett  
-Panzertape
+Panzertape  
+Nudeln, Sauce, Kartoffeln
 
 ## Basti:
 
@@ -29,7 +30,9 @@ Plane
 Hammer für Häringe  
 Pavillons  
 Toaster  
-Spitz pass' auf, Würfelbecher, etc ...
+Spitz pass' auf, Würfelbecher, etc ...  
+Wimpelkette  
+Flunkyball
 
 ## Boris:
 
